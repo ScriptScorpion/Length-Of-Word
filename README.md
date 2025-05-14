@@ -6,4 +6,4 @@ C++ Code that can get you lenght of that you typed in.
 
 2.Type your words or numbers.
 
-3.Get your lenght
+3.Get your lenght of the word

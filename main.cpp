@@ -8,6 +8,7 @@ int main(){
     std::getline(std::cin, a);
     if (a.empty()) {
         std::cout << "Enter Word";
+        return 0;
     }
     else if (a == "with" || a == "WITH" || a == "With") {
         //std::getline(std::cin, input);
